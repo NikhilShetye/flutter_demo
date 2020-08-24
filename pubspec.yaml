@@ -57,6 +57,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - load_json/person.json
+    - load_json/CalApp.txt
     - assets/
     - assets/images/
     - assets/json/

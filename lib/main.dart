@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_demo/CalApp.dart';
 import 'package:flutter_demo/HttpGetApp.dart';
 import 'package:flutter_demo/LoadJsonApp.dart';
 import 'package:flutter_demo/PokemonApp.dart';
